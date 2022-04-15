@@ -1,5 +1,5 @@
 #!/bin/sh
-#
+
 # Create a distributable archive of the current version of Makeself
 
 VER=`cat VERSION`
